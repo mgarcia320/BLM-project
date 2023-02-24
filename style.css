@@ -1,0 +1,24 @@
+img{
+  width: 100%;
+  height:100%;
+  margin: 0 auto;
+  object-fit: cover;
+}
+.row{
+  display: flex;
+  align-item: center;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  
+}
+ 
+iframe{
+   width: 200px;
+  height: 200px;
+   margin: 10px;
+  background-color: grey;
+}
+
+.card-img-top{
+  height: 500px
+}
